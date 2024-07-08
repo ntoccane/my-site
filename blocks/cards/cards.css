@@ -29,3 +29,8 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+.cards .variant-cards-card-image-challenger-1 {
+  filter: grayscale(.5);
+  line-height: 0;
+}
