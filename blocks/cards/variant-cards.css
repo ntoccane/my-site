@@ -16,7 +16,8 @@
   margin: 16px;
 }
 
-.cards .cards-card-image-control {
+.cards .variant-cards-card-image-challenger-1 {
+  filter: grayscale(.5);
   line-height: 0;
 }
 
