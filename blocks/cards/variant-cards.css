@@ -17,7 +17,11 @@
 }
 
 .cards .variant-cards-card-image-challenger-1 {
-  filter: grayscale(.5);
+  filter: grayscale(100%);
+  line-height: 0;
+}
+.cards .variant-cards-card-image-challenger-2 {
+  filter: sepia(100%);
   line-height: 0;
 }
 
